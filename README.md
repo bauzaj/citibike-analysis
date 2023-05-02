@@ -12,6 +12,8 @@ After the initial cleaning, the cleaned files were exported and then imported in
 
 **Visualizations**
 
+https://public.tableau.com/shared/TSZFTY336?:display_count=n&:origin=viz_share_link
+
 Using Tableau, a variety of visualizations were created to explore the Citibike data. Some of the key visualizations include:
 
   -A map of Citibike stations in New York City, color-coded by the average number of daily trips originating and ending from each station.
